@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💎 About Me:
 💻 I build personal projects to turn what I learn into practical experience.
 
 
