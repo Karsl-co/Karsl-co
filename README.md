@@ -14,6 +14,7 @@
 
 - 💻 **Focus:** Building personal projects to turn theory into practical, real-world experience.
 - 🚀 **Goals:** Continuously improving software engineering skills and exploring web development & cloud solutions.
+- ⚡ **Fun Fact:** Passionate about learning new technologies and exploring cloud architecture.
 
 ---
 
@@ -25,6 +26,12 @@
   </a>
   <a href="https://github.com/Karsl-co">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -56,6 +63,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+## 📌 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **Project 1** | Short description of your project. | `HTML` `CSS` `JS` | [Repo](https://github.com/Karsl-co) |
+| **Project 2** | Short description of your project. | `Python` `Cloud` | [Repo](https://github.com/Karsl-co) |
 
 ---
 
